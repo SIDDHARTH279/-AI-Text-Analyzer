@@ -1,0 +1,3 @@
+Python is amazing.
+Python is useful for AI.
+I am learning Python and AI.

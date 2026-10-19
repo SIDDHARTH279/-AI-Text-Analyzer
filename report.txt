@@ -1,0 +1,22 @@
+========== AI TEXT ANALYZER REPORT ==========
+
+Total characters: 72
+Total words: 14
+Total sentences: 3
+
+--- Word Frequencies ---
+python: 3
+is: 2
+amazing: 1
+useful: 1
+for: 1
+ai: 2
+i: 1
+am: 1
+learning: 1
+and: 1
+
+--- Top 3 Words ---
+python: 3
+is: 2
+ai: 2
