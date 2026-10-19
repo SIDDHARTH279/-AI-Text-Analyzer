@@ -1,1 +1,1 @@
-# -AI-Text-Analyzer
+📄 AI Text Analyzer
